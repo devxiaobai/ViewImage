@@ -1,0 +1,12 @@
+*.class
+bin/
+gen/
+obj/
+.metadata/
+.DS_Store
+.settings/
+lint.xml
+Thumbs.db
+project.properties
+local.properties
+*.swp
